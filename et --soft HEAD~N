@@ -1,0 +1,148 @@
+[33mcommit 02a72b9ac4b453057cb5598502e14a1d30ca0784[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtask-3[m[33m)[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sun Sep 15 14:16:01 2024 +0300
+
+    12
+
+[33mcommit 15a675a8111c36e87ec1cfd7e07486aaa24567df[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sun Sep 15 14:12:24 2024 +0300
+
+    task 3
+
+[33mcommit ea6f298bf128d8901e41c83bcd71fab97e934318[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sun Sep 15 14:08:36 2024 +0300
+
+    task 3
+
+[33mcommit 2962e8d7c5fcaa8676c1aeafd4acd652def469f9[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sun Sep 15 14:02:23 2024 +0300
+
+    Add DVC tracking for dataset
+
+[33mcommit 2d557cbf5a33e5800bf4ce6aff9c9436ac8fe460[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sun Sep 15 13:34:16 2024 +0300
+
+    task 3
+
+[33mcommit c729b61f67136785f81985dff48cf1eb529fdda3[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sun Sep 15 13:32:14 2024 +0300
+
+    Configure Git LFS for large files
+
+[33mcommit 810fc8239bb5655a574f95afc0eb016c309847d0[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sun Sep 15 13:29:04 2024 +0300
+
+    try
+
+[33mcommit baba5c320c43796ffbfb0cf17e727fcc1889236d[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sun Sep 15 13:24:07 2024 +0300
+
+    task 3
+
+[33mcommit 6c6d58499b596b656de8b3d98c2c04fc3881f83d[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sun Sep 15 12:50:49 2024 +0300
+
+    testing
+
+[33mcommit 186d3b90ccc96b15910e719be9416587a51588ab[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sun Sep 15 12:33:49 2024 +0300
+
+    testing
+
+[33mcommit 11e9ef89540ffd7a2f64978b6ed8c693cbb538a0[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sun Sep 15 12:24:50 2024 +0300
+
+    hypothesis testing
+
+[33mcommit eac15a223f9b20ffbd3196b50e8f0e16c2694c33[m[33m ([m[1;32mtask-2[m[33m)[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sat Sep 14 17:19:54 2024 +0300
+
+    Update .gitignore and track data with DVC
+
+[33mcommit a91151a5ce4080a5e8889a982c8f51e786cf3553[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sat Sep 14 17:06:35 2024 +0300
+
+    Configure DVC remote storage
+
+[33mcommit 6da40eac632388b3b445e5472cdf339939c5fc78[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sat Sep 14 16:56:40 2024 +0300
+
+    Reinitialize DVC
+
+[33mcommit c6c6fa9ff40d2ed958ea467f0f4d4c7628ec76cf[m[33m ([m[1;32mmain[m[33m)[m
+Merge: 65742de 6b19969
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sat Sep 14 16:49:48 2024 +0300
+
+    Merge branch 'main' of https://github.com/DegaregeN/Insurance-Data-Analysis-
+
+[33mcommit 65742decc105709b84f228961daef2b14d15c724[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sat Sep 14 16:49:10 2024 +0300
+
+    analysis
+
+[33mcommit 6b19969bebf24cecf13bd6cb67140569068d4264[m
+Merge: a99fb87 4894768
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sat Sep 14 02:07:11 2024 +0300
+
+    Merge pull request #1 from DegaregeN/task-1
+    
+    data exploration
+
+[33mcommit 48947681a8cece791d412dbeca4d4c0a199134d3[m[33m ([m[1;32mtask-1[m[33m)[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Sat Sep 14 02:03:36 2024 +0300
+
+    data exploration
+
+[33mcommit a99fb875d8643d1fff4536ad9c88b4c54c638ca0[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Fri Sep 13 23:14:56 2024 +0300
+
+    updating folder structure
+
+[33mcommit 392d7778ca19b9b4f2e6a500222046785b2d165e[m
+Merge: 111b691 262e0c0
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Fri Sep 13 21:35:33 2024 +0300
+
+    Merge branch 'main' of https://github.com/DegaregeN/Insurance-Data-Analysis-
+
+[33mcommit 111b69185b02a3d5100770230b120b5bef250069[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Fri Sep 13 21:35:28 2024 +0300
+
+    adding dvc structure
+
+[33mcommit 262e0c0e49ebfddd0c156d797d42c50a1fbbf62f[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Fri Sep 13 21:26:48 2024 +0300
+
+    blank.yml
+
+[33mcommit c138cca1dc781cb1ed967ccad79c62d653ba46eb[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Fri Sep 13 21:22:31 2024 +0300
+
+    forming github structure
+
+[33mcommit f0e8aae186a9393fe3aac4df72cb851f2becf7cd[m
+Author: Degarege Nibret <degarege3003nibret@gmail.com>
+Date:   Fri Sep 13 21:00:06 2024 +0300
+
+    Initial commit
